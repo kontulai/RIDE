@@ -22,7 +22,7 @@ ppmtowinicon -andpgms \
     16.pnm 16.pgm \
     32.pnm 32.pgm \
     48.pnm 48.pgm \
-    > robot.ico
+    > robot.icofdsafdsafdsa
 echo "Created robot.ico"
 
 # Cleanup
